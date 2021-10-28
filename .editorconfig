@@ -22,6 +22,3 @@ indent_style = tab
 
 [.travis.yml]
 indent_size = 2
-
-
-cddd
