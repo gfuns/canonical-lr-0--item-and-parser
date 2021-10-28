@@ -1,4 +1,4 @@
-# SLR Parser [![codecov](https://codecov.io/gh/Vipul97/slr-parser/branch/master/graph/badge.svg)](https://codecov.io/gh/Vipul97/slr-parser) [![Build Status](https://travis-ci.com/Vipul97/slr-parser.svg?branch=master)](https://travis-ci.com/Vipul97/slr-parser) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 
 Implementation of Simple LR (SLR) Parser for educational purposes.
 
@@ -93,18 +93,18 @@ If you don't have [pip](https://pip.pypa.io) installed, this [Python installatio
 
 ## From sources
 
-The sources for slr-parser can be downloaded from the [Github repo](https://github.com/Vipul97/slr-parser).
+The sources for slr-parser can be downloaded from the [Github repo](https://github.com/gfuns/canonical-lr-0--item-and-parser/tree/master).
 
 You can either clone the public repository:
 
 ```
-git clone git://github.com/Vipul97/slr-parser
+git clone https://github.com/gfuns/canonical-lr-0--item-and-parser.git
 ```
 
-Or download the [tarball](https://github.com/Vipul97/slr-parser/tarball/master):
+Or download the [tarball](https://github.com/gfuns/canonical-lr-0--item-and-parser/tarball/master):
 
 ```
-curl -OJL https://github.com/Vipul97/slr-parser/tarball/master
+curl -OJL https://github.com/gfuns/canonical-lr-0--item-and-parser/tarball/master
 ```
 
 Once you have a copy of the source, you can install it with:
