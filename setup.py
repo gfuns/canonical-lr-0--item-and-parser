@@ -6,9 +6,9 @@ with open('README.md') as f:
 setup(
     name='slr-parser',
     version='0.4.0',
-    author='Vipul Gharde',
-    authon_email='vipul.gharde@gmail.com',
-    description='Implementation of Simple LR (SLR) Parser for educational purposes.',
+    author='Nwankwo Gabriel',
+    author_email='gfunzy@gmail.com',
+    description='Implementation of LR(0) Items and SLR Parser Table for educational purposes.',
     long_description=long_description,
     long_description_content_type='text/markdown',
     url='https://github.com/Vipul97/slr-parser',
