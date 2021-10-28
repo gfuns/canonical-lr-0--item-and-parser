@@ -11,7 +11,7 @@ setup(
     description='Implementation of LR(0) Items and SLR Parser Table for educational purposes.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/Vipul97/slr-parser',
+    url='https://github.com/gfuns/canonical-lr-0--item-and-parser',
     packages=find_packages(),
     install_requires=['graphviz'],
     classifiers=[
