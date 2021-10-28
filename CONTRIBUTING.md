@@ -8,7 +8,7 @@ You can contribute in many ways:
 
 ### Report Bugs
 
-Report bugs at <https://github.com/Vipul97/slr-parser/issues>.
+Report bugs at <https://github.com/gfuns/canonical-lr-0--item-and-parser/issues>.
 
 If you are reporting a bug, please include:
 
@@ -30,7 +30,7 @@ slr-parser could always use more documentation, whether as part of the official 
 
 ### Submit Feedback
 
-The best way to send feedback is to file an issue at <https://github.com/Vipul97/slr-parser/issues>.
+The best way to send feedback is to file an issue at <https://github.com/gfuns/canonical-lr-0--item-and-parser/issues>.
 
 If you are proposing a feature:
 
@@ -82,7 +82,7 @@ Before you submit a pull request, check that it meets these guidelines:
 
 1.  The pull request should include tests.
 2.  If the pull request adds functionality, the docs should be updated. Put your new functionality into a function with a docstring.
-3.  The pull request should work for Python 3.6, 3.7 and 3.8. Check <https://travis-ci.org/github/Vipul97/slr-parser/pull_requests> and make sure that the tests pass for all supported Python versions.
+3.  The pull request should work for Python 3.6, 3.7 and 3.8. Check <https://github.com/gfuns/canonical-lr-0--item-and-parser/pull_requests> and make sure that the tests pass for all supported Python versions.
 
 ## Tips
 
