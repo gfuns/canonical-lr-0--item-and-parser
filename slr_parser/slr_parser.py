@@ -184,6 +184,8 @@ class SLRParser:
         for head in self.G_prime.grammar:
             print(f'{head:>{self.max_G_prime_len}} = {{ {", ".join(self.follow[head])} }}')
 
+        print('\nCANONICAL LR(0) ITEMS:')
+
         width = max(len(c) for c in {'ACTION'} | self.G_prime.symbols) + 2
         for r in range(len(self.C)):
             max_len = max(len(str(c)) for c in self.parse_table[r].values())
